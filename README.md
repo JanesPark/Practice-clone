@@ -1,2 +1,2 @@
-# Practice-clone-
-youtube clone coding / 
+# practice
+practice clone coding(front)
